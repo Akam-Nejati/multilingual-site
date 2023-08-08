@@ -1,7 +1,7 @@
 # Tolls ⚒️
 
-. nuxt 3
-. nuxt i18n
+* nuxt 3
+* nuxt i18n
 
 ## Setup
 
